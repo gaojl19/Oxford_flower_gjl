@@ -1,0 +1,17 @@
+一、SimCLR 对比式预训练
+- 代码部分（基本完成）
+    1. 添加dataloader根据data目录的支持
+    2. 添加不同高斯核的支持
+
+
+- 分析
+1. 三种网络跑一下feature vector的分析
+    - 从
+    - 取projection层之前的特征向量，进行聚类可视化
+
+- mlp with contrastive loss 降得还可以---需要添加activation！！！
+二、VAE 生成式预训练
+1. 
+
+
+三、花定位任务
